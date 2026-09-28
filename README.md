@@ -1,4 +1,4 @@
-# Tactical Command OS: Drone Fleet Telemetry Tracker
+# Simple Tactical Drone Fleet Mission & Telemetry Tracker
 
 An enterprise-grade, 2-tier client-server desktop application designed to manage tactical drone deployments, hardware inventory, and geographic reconnaissance zones. Built with a Java Swing frontend and an Oracle Relational Database backend.
 
